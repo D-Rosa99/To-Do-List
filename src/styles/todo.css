@@ -1,0 +1,29 @@
+.Todo {
+  background-color: #ff4d4d;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  height: 70px;
+  margin: auto;
+  margin-top: 30px;
+  padding: 25px;
+  text-align: center;
+  transition: 0.3s;
+  width: 40%;
+}
+
+.Todo-task {
+  color: white;
+  font-weight: bolder;
+}
+
+.Todo-btn {
+  background-color: #f7f7f7;
+  border: 0;
+  color: #000;
+  cursor: pointer;
+  font-size: 15px;
+  height: 35px;
+  margin: 4px 2px;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+}
